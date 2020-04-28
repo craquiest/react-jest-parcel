@@ -1,4 +1,4 @@
-# Using parcel-bundler with react and jest
+# Using parcel-bundler with React and jest. (And deploying on AWS with serverless)
 
 ## Setup
 1. Clone this repository
