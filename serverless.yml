@@ -1,0 +1,12 @@
+component: website
+name: my-rjp-site
+stage: dev
+
+inputs:
+  # domain: <YOUR.DOMAIN.com>
+  region: eu-west-2
+  src:
+    src: ./src
+    hook: npm run build
+    dist: ./dist
+
