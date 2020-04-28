@@ -48,4 +48,4 @@ rm -rf .git .gitignore README.md
 git init
 ```
 
-6. Start the developing cycle! `run npm start` in one terminal, `npm test-watch` in another, to build and test automatically your application as you modify index.html, scripts in js/ folder, styles in css/ folder. And don't forget to add tests in __tests__/ folder. 
+6. Start the developing cycle! `run npm start` in one terminal, `npm test-watch` in another, to build and test automatically your application as you modify index.html,  and scripts, styles, test (don't forget to add tests!) in `src/` folder. 
